@@ -1,0 +1,15 @@
+City, Country, AirQuality, WaterPollution
+New York City," ""United States of America""",46.81603774,49.5049505
+"Washington, D.C."," ""United States of America""",66.12903226,49.10714286
+San Francisco," ""United States of America""",60.51401869,43
+Berlin," ""Germany""",62.36413043,28.61271676
+Los Angeles," ""United States of America""",36.62162162,61.29943503
+Bern," ""Switzerland""",94.31818182,12.5
+Geneva," ""Switzerland""",71.53846154,17.37288136
+Zurich," ""Switzerland""",83.80952381,10.71428571
+Basel," ""Switzerland""",81.66666667,26.92307692
+London," ""United Kingdom""",37.04225352,40.71637427
+Cairo," ""Egypt""",15.830721,74.35064935
+Alexandria," ""Egypt""",41.03773585,71.2962963
+Alexandria," ""United States of America""",89.0625,46.15384615
+Paris," ""France""",34.02439024,43.12169312
